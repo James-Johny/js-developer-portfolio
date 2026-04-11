@@ -1,129 +1,115 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "name": "James Johny",
+  "photo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/assets/img/profile.JPG",
+  "job": "Estudante",
+  "location": "Senador Canedo - Goiás",
+  "phone": "(62) 99449-8536",
+  "email": "jamesjohny@mail.ru",
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "HTML",
+        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/html.png"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/js.png"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "CSS",
+        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/css.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/git.png"
+      },
+      {
+        "name": "Github",
+        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/github.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/mysql.png"
+      },
+      {
+        "name": "PHP",
+        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/php.png"
+      },
+      {
+        "name": "Vscode",
+        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/vscode.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/java.png"
       }
     ],
     "softSkills": [
       "Comunicação",
-      "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Liderança",
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Proatividade",
+      "Resolução de problemas",
+      "Criatividade",
+      "Dedicação",
+      "Resiliência"
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
-  ],
-  "educacao": [
-    {
-      "nome": "dio.me",
-      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "2019",
-        "fim": "Atualmente"
-      },
-      "certificados": [
-        {
-          "nome": "Formação: Blockchain Specialist (25h)",
-          "link": "https://www.dio.me/certificate/28601B02"
-        },
-        {
-          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
-          "link": "https://www.dio.me/certificate/07041B99"
-        },
-        {
-          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
-          "link": "https://www.dio.me/certificate/F12AC30B"
-        },
-        {
-          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
-          "link": "https://www.dio.me/certificate/3FB20BF1"
-        },
-        {
-          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
-          "link": "https://www.dio.me/certificate/BA099F34"
-        }
-      ]
-    },
-    {
-      "nome": "Doutorado em Engenharia de Software",
-      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2018",
-        "fim": "Atualmente"
-      }
-    },
-    {
-      "nome": "Mestrado em Engenharia de Software",
-      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2012",
-        "fim": "2015"
-      }
-    },
-    {
-      "nome": "Bacharelado em Engenharia de Computação",
-      "descricao": "",
-      "instituicao": "Universidade de Araraquara (UNIARA)",
-      "periodo": {
-        "inicio": "2007",
-        "fim": "2011"
-      }
-    }
+  "languages": [
+    "Português BR",
+    "Inglês (iniciante)",
+    "Espanhol (iniciante)"
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "name": "Clonando o SIte da HBO Max com Animações em HTML e CSS",
+      "url": "https://james-johny.github.io/hbomax/",
+      "certificate": "https://hermes.dio.me/certificates/D7CBS9GR.pdf",
+      "github": true
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "name": "Construindo um Layout Responsivo Para o Site do Discord com CSS",
+      "url": "https://github.com/James-Johny/discord",
+      "certificate": "https://hermes.dio.me/certificates/B2RNMR4J.pdf",
+      "github": true
+    },
+    {
+      "name": "Reproduzindo a Listagem do YouTube com Grid Layout no CSS",
+      "url": "https://github.com/James-Johny/yt-grid",
+      "certificate": "https://hermes.dio.me/certificates/PRD7QX55.pdf",
+      "github": true
+    },
+    {
+      "name": "Clonando a Página do Youtube com CSS",
+      "url": "https://github.com/James-Johny/yt-flexbox",
+      "certificate": "https://hermes.dio.me/certificates/JZGOCIGN.pdf",
+      "github": true
+    },
+    {
+      "name": "Construindo uma Pokédex com JavaScript",
+      "url": "https://github.com/James-Johny/js-developer-pokedex",
+      "certificate": "https://hermes.dio.me/certificates/IY0LQ0U8.pdf",
+      "github": true
+    },
+    {
+      "name": "Recriando o Wikipedia com Layout Moderno",
+      "url": "https://github.com/James-Johny/trilha-html-modulo-3",
+      "certificate": "https://hermes.dio.me/certificates/XJUMUNRD.pdf",
+      "github": true
+    },
+    {
+      "name": "Criando sua Primeira Landing Page com HTML e CSS",
+      "url": "https://github.com/James-Johny/trilha-css-desafio-01",
+      "certificate": "https://hermes.dio.me/certificates/NKYKUJOB.pdf",
+      "github": true
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Operador de Máquinas II / Savoy Indústria de Cosméticos SA",
+      "period": "2024 - Atual",
+      "description": "Contribuir para a produção de cosméticos com foco em qualidade e segurança. Não se limitando ao cuidado com os equipamentos, mas também com a construção de boas relações no dia a dia, colaborando com colegas e fortalecendo o espírito de equipe dentro da indústria."
     }
   ]
 }
