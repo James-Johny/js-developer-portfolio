@@ -1,6 +1,6 @@
 {
   "name": "James Johny",
-  "photo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/assets/img/profile.JPG",
+  "photo": "https://raw.githubusercontent.com/James-Johny/js-developer-portfolio/refs/heads/projeto-base/assets/img/profile.JPG",
   "job": "Estudante",
   "location": "Senador Canedo - Goiás",
   "phone": "(62) 99449-8536",
@@ -9,39 +9,39 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/James-Johny/js-developer-portfolio/refs/heads/projeto-base/data/imgs/html.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/James-Johny/js-developer-portfolio/refs/heads/projeto-base/data/imgs/js.png"
       },
       {
         "name": "CSS",
-        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/James-Johny/js-developer-portfolio/refs/heads/projeto-base/data/imgs/css.png"
       },
       {
         "name": "Git",
-        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/James-Johny/js-developer-portfolio/refs/heads/projeto-base/data/imgs/git.png"
       },
       {
         "name": "Github",
-        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/James-Johny/js-developer-portfolio/refs/heads/projeto-base/data/imgs/github.png"
       },
       {
         "name": "MySQL",
-        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/James-Johny/js-developer-portfolio/refs/heads/projeto-base/data/imgs/mysql.png"
       },
       {
         "name": "PHP",
-        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/php.png"
+        "logo": "https://raw.githubusercontent.com/James-Johny/js-developer-portfolio/refs/heads/projeto-base/data/imgs/php.png"
       },
       {
         "name": "Vscode",
-        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/vscode.png"
+        "logo": "https://raw.githubusercontent.com/James-Johny/js-developer-portfolio/refs/heads/projeto-base/data/imgs/vscode.png"
       },
       {
         "name": "Java",
-        "logo": "https://potential-space-telegram-4jwqqj6wqj4x3qw5g-5500.app.github.dev/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/James-Johny/js-developer-portfolio/refs/heads/projeto-base/data/imgs/java.png"
       }
     ],
     "softSkills": [
